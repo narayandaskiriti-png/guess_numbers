@@ -1,0 +1,7 @@
+com\numberly\api\NumberlyApplication.class
+com\numberly\api\game\Game.class
+com\numberly\api\game\GameRepository.class
+com\numberly\api\game\GameController.class
+com\numberly\api\game\GameService$GuessResponse.class
+com\numberly\api\game\GameService.class
+com\numberly\api\game\GameController$GuessRequest.class
